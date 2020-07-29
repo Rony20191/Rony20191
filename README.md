@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Would you like to find me?
 
-[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://domain.com/blog)
+[![Blog Badge](https://img.shields.io/badge/Blog-nome.com-black)](https://domain.com/blog)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/nome)](https://youtube.com/c/nome)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RonyOfficial7)](https://twitter.com/RonyOfficial7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nome)](https://www.linkedin.com/in/nome)
